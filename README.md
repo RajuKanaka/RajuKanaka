@@ -1,1 +1,19 @@
-![Metrics](https://metrics.lecoq.io/RajuKanaka?template=classic&languages=1&introduction=1&habits=1&repositories=1&stars=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&stars.limit=4&config.timezone=Asia%2FCalcutta)
+<div align="center">
+  
+### Hi there 👋
+
+My Name Is [Kanaka Raju V].
+
+I'm a self-taught Front-End Developer, currently learning ReactJs
+
+through my course to becoming a front-end developer.
+  
+---
+### 🔖 My Stats
+
+[![](https://komarev.com/ghpvc/?username=RajuKanakai&style=flat-square&color=C691E9)](https://github.com/antonkomarev/github-profile-views-counter)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RajuKanaka&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajuKanaka&show_icons=true&hide_border=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
