@@ -4,9 +4,7 @@
 
 My Name Is [Kanaka Raju V].
 
-I'm a self-taught Front-End Developer, currently learning ReactJs
-
-through my course to becoming a front-end developer.
+Jr. Fullstack Developer at @mudrantarhq Self-taught | Passionate | Love for Vue | React | Typescript | HTML | CSS | Vue and React EcoSystems.
   
 ---
 ### 🔖 My Stats
