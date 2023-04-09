@@ -4,7 +4,7 @@
 
 My Name Is [Kanaka Raju V].
 
-Jr. Fullstack Developer at @mudrantarhq Self-taught | Passionate | Love for Vue | React | Typescript | HTML | CSS | Vue and React EcoSystems.
+Fullstack Developer at @mudrantarhq Self-taught | Passionate | Love for Vue | React | Typescript | HTML | CSS | Vue and React EcoSystems.
   
 ---
 ### 🔖 My Stats
